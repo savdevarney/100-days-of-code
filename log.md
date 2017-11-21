@@ -28,8 +28,10 @@
 ### Day 3: November 21, 2017
 
 **Progress**
-- added npm and babel to discover-meditation
+- added npm and babel to discover-meditation.
+- basic infinite scroll functionality to discover-meditation w/o library.
+- pagination through eventbrite api response in infinite scroll.
 
 **Thoughts**
--  
+- surprised to get stuck on something pretty basic - importing main.js into my page.  Gotta love programming.  
 
