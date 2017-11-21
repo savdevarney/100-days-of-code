@@ -1,30 +1,26 @@
-# 100 Days Of Code - Log
+### 100DaysOfCode Log - Round 1 - SavDeVarney
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: November 17, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+*** Progress ***
+- Worked on basic app that interfaces with Eventbrite API to show meditation classes near you (discover-meditation)
+- Have worked with Eventbrite in Python but wanted to use to learn JavaScript.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+*** Thoughts *** 
+- JavaScript is a whole new world and I feel like I only scratched the surface @hackbright because Habot was so backend intensive. 
+- I feel overwhelmed but really want to specialize in front end to start so have the motivation to power on :) 
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work**
+https://github.com/savdevarney/discover-meditation
 
 
-### Day 1: June 27, Monday
+### Day 2: November 20, 2017
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+*** Progress ***
+- worked through the entire code academy JavaScript track - was glad to see they updated for ES6. 
+- implemented some ES6 optimizations (template literals - love!) in my discover-meditation app.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+*** Thoughts *** 
+- learning your second language is so much easier :) 
+- I'm so grateful for organizations like codecademy that make cirriculum available for free.  Having a structured cirriculum is so reassuring and makes it much easier to learn than watching random YouTube videos!
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
