@@ -1,6 +1,6 @@
 # 100DaysOfCode Log - Round 1: SavDeVarney
 
-## Links to projects in round 1
+## Links to Round 1 projects
 - [discover-meditation](https://github.com/savdevarney/discover-meditation): an app to discover meditation classes near you via integrations with eventbrite, meetup, facebook events, etc. 
 
 
@@ -8,12 +8,15 @@
 ### Day 3: November 21, 2017
 
 **Progress**
-- added npm and babel to discover-meditation.
+- added npm and babel to discover-meditation (thanks to codecademy section on transpilation)
 - basic infinite scroll functionality to discover-meditation w/o library.
 - pagination through eventbrite api response in infinite scroll.
+- finalized codecademy JavaScript track
 
 **Thoughts**
 - surprised to get stuck on something pretty basic - importing main.js into my page. Gah!
+- super jazzed to work out infinite scroll & pagination myself after being overwhelmed with JS library docs.
+- still working out how to organize JS projects.  Encouraged after learning very basics of npm.  Like pip for JS :) 
 
 
 ### Day 2: November 20, 2017
