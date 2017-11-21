@@ -1,25 +1,40 @@
-# I've joined the #100DaysOfCode Challenge.
+# 100DaysOfCode Log - Round 1: SavDeVarney
 
-## Contents
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
+**Links to projects in round 1**
+- [discover-meditation](https://github.com/savdevarney/discover-meditation): an app to discover meditation classes near you via integrations with eventbrite, meetup, facebook events, etc. 
 
-## If you've decided to join:
-0. Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect 
-Also, here is a invite link to the 100DaysOfCode Slack channel: https://tinyurl.com/y73urlup
-1. Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
-2. Fork this repo and commit to the [Log](log.md) or to the Alternative, rapid [R1 Log](r1-log.md) (R1 stands for Round 1) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
-3. **Code minimum an hour every day for the next 100 days.**
-4. **Encourage at least two other people in the challenge on Twitter every day! Pay it forward!**
-5. Change the date in [Rules](rules.md) to the day you've started the challenge.
-6. Delete the examples in the log, or comment them out, and start filling it with your own content.
-7. **Tweet your progress every day using the #100DaysOfCode hashtag.**
-8. Follow [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot that retweets the tweets that contain the #100DaysOfCode hashtag. It's a great way to keep yourself motivated and to participate in the community. Thanks [@amanhimself](https://twitter.com/amanhimself) for creating it!
-9. Important: (see No.4 above for a specific rule on this) Encourage others who are doing the same challenge on Twitter or elsewhere - by giving them props when they are posting updates on their progress, supporting them when things get difficult. Thus we will grow a community that is helpful and effective, which will lead to a higher success rate for each person involved. It's also more likely that you will stick to your own commitment, given that you will get acquainted with a couple people (or more) right away.
-10. If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
 
-## Note
-* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
-* If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) :)
+
+### Day 3: November 21, 2017
+
+**Progress**
+- added npm and babel to discover-meditation.
+- basic infinite scroll functionality to discover-meditation w/o library.
+- pagination through eventbrite api response in infinite scroll.
+
+**Thoughts**
+- surprised to get stuck on something pretty basic - importing main.js into my page. Gah!
+
+
+### Day 2: November 20, 2017
+
+**Progress**
+- worked through 80% of the JavaScript track on codecademy - was glad to see they updated for ES6. 
+- implemented some ES6 optimizations (template literals - love!) in my discover-meditation app.
+- learned about mark down language fundamentals to make this readme pretty
+
+**Thoughts**
+- learning your second language is so much easier :) 
+- I'm so grateful for organizations like codecademy that make cirriculum available for free.  Having a structured cirriculum makes it much easier to learn than watching random YouTube videos!  
+
+
+## Day 1: November 17, 2017
+
+**Progress**
+- Worked on basic app that interfaces with Eventbrite API to show meditation classes near you (discover-meditation)
+- Have worked with Eventbrite in Python but wanted to use to learn JavaScript.
+
+**Thoughts**
+- JavaScript is a whole new world and I feel like I only scratched the surface @hackbright because Habot was so backend intensive. 
+- I feel overwhelmed but really want to specialize in front end to start so have the motivation to power on :) 
+
