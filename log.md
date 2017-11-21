@@ -1,7 +1,8 @@
 # 100DaysOfCode Log - Round 1: SavDeVarney
 
 **Links to projects in round 1**
-[discover-meditation](https://github.com/savdevarney/discover-meditation)
+- [discover-meditation](https://github.com/savdevarney/discover-meditation): an app to discover meditation classes near you via integrations with eventbrite, meetup, facebook events, etc. 
+
 
 
 ### Day 3: November 21, 2017
