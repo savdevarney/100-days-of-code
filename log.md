@@ -17,11 +17,19 @@
 ### Day 2: November 20, 2017
 
 **Progress**
-- worked through the entire code academy JavaScript track - was glad to see they updated for ES6. 
+- worked through 80% of the JavaScript track on codecademy - was glad to see they updated for ES6. 
 - implemented some ES6 optimizations (template literals - love!) in my discover-meditation app.
 - learned about mark down language fundamentals to make this readme pretty
 
 **Thoughts**
 - learning your second language is so much easier :) 
 - I'm so grateful for organizations like codecademy that make cirriculum available for free.  Having a structured cirriculum makes it much easier to learn than watching random YouTube videos!
+
+### Day 3: November 21, 2017
+
+**Progress**
+- added npm and babel to discover-meditation
+
+**Thoughts**
+-  
 
