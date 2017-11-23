@@ -2,16 +2,29 @@
 
 ## Links to Round 1 projects
 - [discover-meditation](https://github.com/savdevarney/discover-meditation): an app to discover meditation classes near you via integrations with eventbrite, meetup, facebook events, etc. 
+- [learnings](https://github.com/savdevarney/learnings): notes and code snippets from all my self-study. 
 
 
+
+### Day 4: November 22, 2017
+
+**Progress**
+- finished last 10% of codecademy track (requests).
+- created a repo for learnings for all my notes and code snippets.
+- started watching Wes Bos React tutorials. 
+- did a few coding challenges.
+
+**Thoughts**
+- learning via typing code (vs writing in my notebook) much more efficient for muscle memory.
+- sometimes starting something is the hardest part.  I like to set myself up for success by creating files and adding the first few lines.  It makes adding to it the next day so much easier :) 
 
 ### Day 3: November 21, 2017
 
 **Progress**
-- added npm and babel to discover-meditation (thanks to codecademy section on transpilation)
+- added npm and babel to discover-meditation (thanks to codecademy section on transpilation).
 - basic infinite scroll functionality to discover-meditation w/o library.
 - pagination through eventbrite api response in infinite scroll.
-- finalized codecademy JavaScript track
+- 90% through codecademy JavaScript track (first 20% mostly review and went quickly).
 
 **Thoughts**
 - surprised to get stuck on something pretty basic - importing main.js into my page. Gah!
