@@ -5,6 +5,39 @@
 - [learnings](https://github.com/savdevarney/learnings): notes and code snippets from all my self-study. 
 
 
+### Day 6: November 24, 2017
+
+**Progress**
+- Started codecademy ReactII
+- Went through Wes Bos React tutorials
+- More JS code challenges on code wars
+
+**Thoughts**
+-  
+
+
+### Day 6: November 24, 2017
+
+**Progress**
+- Finished codecademy ReactI
+- Did a few JS code challenges on codewars to flex my JS muscles
+
+**Thoughts**
+- React, while super confusing to me still, is also VERY exciting and I'm totally in love with it already. 
+- Really excited to discover codewars.  I feel like it matched me to the exact challenges I needed and there was a pathway to progressively level-up. 
+
+
+### Day 5: November 23, 2017
+
+Happy Thanksgiving :) 
+
+**Progress**
+- Finished codecademy React intro
+- Polished some items on Habot to enable cloning (removing test user data)
+
+**Thoughts**
+- light day!
+
 
 ### Day 4: November 22, 2017
 
