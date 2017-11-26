@@ -3,9 +3,20 @@
 ## Links to Round 1 projects
 - [discover-meditation](https://github.com/savdevarney/discover-meditation): an app to discover meditation classes near you via integrations with eventbrite, meetup, facebook events, etc. 
 - [learnings](https://github.com/savdevarney/learnings): notes and code snippets from all my self-study. 
+- [goslo](https://github.com/savdevarney/goslo): My first React app. A visual meditation app to pace breathing.
+
+### Day 8: November 26, 2017
+
+**Progress**
+- JS code challenges
+- started #JavaScript30! yeah! 
+- finished JavaScript30 D1, Drumkit.
+
+**Thoughts**
+- Wes Bos, I love you :)
 
 
-### Day 7: November 24, 2017
+### Day 7: November 25, 2017
 
 **Progress**
 - Started codecademy ReactII
