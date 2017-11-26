@@ -5,15 +5,17 @@
 - [learnings](https://github.com/savdevarney/learnings): notes and code snippets from all my self-study. 
 
 
-### Day 6: November 24, 2017
+### Day 7: November 24, 2017
 
 **Progress**
 - Started codecademy ReactII
-- Went through Wes Bos React tutorials
+- Went through Wes Bos React tutorial, vol 1
 - More JS code challenges on code wars
 
 **Thoughts**
--  
+-  I'm at the 50% mark with the tutorials I have. 
+-  Brain is totally overwhelmed with React things! JSX, Components, Props, Context, State, Routing, ahhh! But I can feel how/why it's so powerful and awesome.
+-  Good next step:  identify a simple project I can build in parallel with finishing remainder of tutorials. 
 
 
 ### Day 6: November 24, 2017
