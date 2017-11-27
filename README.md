@@ -9,8 +9,9 @@
 
 **Progress**
 - JS code challenges
-- started #JavaScript30! yeah! 
-- finished JavaScript30 D1, Drumkit.
+- Started #JavaScript30! yeah! 
+- Finished JavaScript30 D1, Drumkit and D2, CSS clock
+- Started GoSlo - my first React App.  Not much than created the structure and repo yet.  Very grateful for create-react-app!
 
 **Thoughts**
 - Wes Bos, I love you :)
