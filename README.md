@@ -1,9 +1,20 @@
 # 100DaysOfCode Log - Round 1: SavDeVarney
 
 ## Links to Round 1 projects
-- [discover-meditation](https://github.com/savdevarney/discover-meditation): an app to discover meditation classes near you via integrations with eventbrite, meetup, facebook events, etc. 
-- [learnings](https://github.com/savdevarney/learnings): notes and code snippets from all my self-study. 
-- [goslo](https://github.com/savdevarney/goslo): My first React app. A visual meditation app to pace breathing.
+- [discover-meditation](https://github.com/savdevarney/discover-meditation): an app to discover meditation classes near you via integrations with eventbrite, meetup, facebook events, etc. During this 100 days, I plan to learn enough JavaScript to have this work primarily from the front end. 
+- [learnings](https://github.com/savdevarney/learnings): notes and code snippets from all my self-study.  During this 100 days, I plan to skill up in JS(including ES6) and learn React/Redux. 
+- [goslo](https://github.com/savdevarney/goslo): My first React app. A visual meditation app to pace breathing. During this 100 days, I plan to learn React and build this entirely. 
+- [habot](https://github.com/savdevarney/habot): My very first working web app that I created at Hackbright.  During this 100 days, I plan to add various testing modalities and build several features in preparation for deployment. 
+
+
+### Day 9: November 27, 2017
+
+**Progress**
+- added unittests to Habot where possible. 
+- went through several ES6 tutorials.  Learned about for-of loops and generators, deconstruction, new string methods, tagged template literals.
+
+**Thoughts**
+- In ES6, JavaScript is so pythonic! How wonderful! 
 
 ### Day 8: November 26, 2017
 
