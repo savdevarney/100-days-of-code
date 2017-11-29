@@ -4,8 +4,18 @@
 - [discover-meditation](https://github.com/savdevarney/discover-meditation): an app to discover meditation classes near you via integrations with eventbrite, meetup, facebook events, etc. During this 100 days, I plan to learn enough JavaScript to have this work primarily from the front end. 
 - [learnings](https://github.com/savdevarney/learnings): notes and code snippets from all my self-study.  During this 100 days, I plan to skill up in JS(including ES6) and learn React/Redux. 
 - [goslo](https://github.com/savdevarney/goslo): My first React app. A visual meditation app to pace breathing. During this 100 days, I plan to learn React and build this entirely. 
+- [expanding circle](https://codepen.io/savdevarney/pen/bYQeOY): A prelude project for goslo.  A mini project to learn css animation techniques. 
 - [habot](https://github.com/savdevarney/habot): My very first working web app that I created at Hackbright.  During this 100 days, I plan to add various testing modalities and build several features in preparation for deployment. 
 
+### Day 10: November 29, 2017
+
+**Progress**
+- Learned CSS animations and transitions and built[expanding circle](https://codepen.io/savdevarney/pen/bYQeOY)
+- More ES6 tutorials: Array methods & spread operators.
+
+
+**Thoughts**
+- I was so surprised to learn what you could do in CSS.  My CSS skills are still very basic and I'm looking forward to levelling up here.  
 
 ### Day 9: November 27, 2017
 
