@@ -7,6 +7,27 @@
 - [expanding circle](https://codepen.io/savdevarney/pen/bYQeOY): A prelude project for goslo.  A mini project to learn css animation techniques. 
 - [habot](https://github.com/savdevarney/habot): My very first working web app that I created at Hackbright.  During this 100 days, I plan to add various testing modalities and build several features in preparation for deployment. 
 
+### Day 12: December 7, 2017
+
+**Progress**
+- 
+
+**Thoughts**
+- 
+
+### Day 11: December 6, 2017
+
+
+**Progress**
+- started new CSS tutorials
+- #JavaScript30 D3 - CSS variables, D4 - Array Cardio & D5 - Flex Panel Gallery
+- several ES6 practices last week in between interviews
+
+**Thoughts**
+- Haven't posted most of last week as I was interviewing for positions, and I got a job offer (that I accepted!) Starting as a front end engineer @ bill.com on January 2nd, so pivoting my learnings to include Angular (pausing progress on React)
+
+
+
 ### Day 10: November 29, 2017
 
 **Progress**
@@ -16,24 +37,6 @@
 
 **Thoughts**
 - I was so surprised to learn what you could do in CSS.  My CSS skills are still very basic and I'm looking forward to levelling up here.  
-
-### Day 11: December 7, 2017
-
-**Progress**
-- 
-
-**Thoughts**
-- 
-
-### Day 10: December 6, 2017
-
-**Progress**
-- started new CSS tutorials
-- #JavaScript30 D3 - CSS variables, D4 - Array Cardio & D5 - Flex Panel Gallery
-- several ES6 practices last week in between interviews
-
-**Thoughts**
-- Haven't posted most of last week as I was interviewing for positions, and I got a job offer (that I accepted!) Starting as a front end engineer @ bill.com on January 2nd, so pivoting my learnings to include Angular (pausing progress on React)
 
 
 ### Day 9: November 27, 2017
