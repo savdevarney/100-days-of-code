@@ -7,16 +7,17 @@
 - [expanding circle](https://codepen.io/savdevarney/pen/bYQeOY): A prelude project for goslo.  A mini project to learn css animation techniques. 
 - [habot](https://github.com/savdevarney/habot): My very first working web app that I created at Hackbright.  During this 100 days, I plan to add various testing modalities and build several features in preparation for deployment. 
 
-### Day 12: December 7, 2017
+### Day 12: December 18, 2017
 
 **Progress**
+- Got reorganized after 2 weeks of vacation.
 - 
+
 
 **Thoughts**
 - 
 
 ### Day 11: December 6, 2017
-
 
 **Progress**
 - started new CSS tutorials
@@ -31,7 +32,7 @@
 ### Day 10: November 29, 2017
 
 **Progress**
-- Learned CSS animations and transitions and built[expanding circle](https://codepen.io/savdevarney/pen/bYQeOY)
+- Learned CSS animations and transitions and built [expanding circle](https://codepen.io/savdevarney/pen/bYQeOY)
 - More ES6 tutorials: Array methods & spread operators.
 
 
